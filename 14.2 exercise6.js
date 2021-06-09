@@ -4,7 +4,7 @@
 
 
 
-// 3. Put "Kiwi" at the end fff
+// 3. Put "Kiwi" at the end fffgdit sta
 
 // 4. Remove "Apples" from the array.
 
